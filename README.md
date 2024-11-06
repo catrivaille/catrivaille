@@ -17,3 +17,9 @@
 <p align="center">
  <img src="https://64.media.tumblr.com/491b3ee6a9cea340be2c38fb906a223a/5f31e6a8194fbf35-5b/s1280x1920/fd1420dff595202f2b8871694bf2f19037b61a9f.gifv" width="400" height="auto"/>
 </p>
+<p align="center">
+ <img src="https://media1.tenor.com/m/bOQuBMc3ypkAAAAC/dottoscara-dottoscara-genshin.gif" width="100" height="auto"/>
+</p>
+<p align="center">
+ <img src="https://media1.tenor.com/m/A9AdXOfus44AAAAC/dottoscara-scaramouche.gif" width="100" height="auto"/>
+</p>
