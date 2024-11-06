@@ -21,5 +21,7 @@
  <img src="https://media1.tenor.com/m/bOQuBMc3ypkAAAAC/dottoscara-dottoscara-genshin.gif" width="100" height="auto"/>
 </p>
 <p align="center">
- <img src="https://media1.tenor.com/m/A9AdXOfus44AAAAC/dottoscara-scaramouche.gif" width="100" height="auto"/>
+ <img src="https://64.media.tumblr.com/0ed541b4eb3cf0481e13134dd684e9cc/b446c5c66747859d-9a/s75x75_c1/03130984af65f47abebc9dfdab6b44190a7a42a6.gifv" width="20" height="auto"/>
+ <img src="https://64.media.tumblr.com/1a9708c796027adc0f61c32fc9d8825e/3bf59de8a1dc1544-ec/s250x400/7dfb67b6c93bdfc2e6d7b54ea897f62068dd9281.gifv" width="150" height="auto"/>
+<img src="https://64.media.tumblr.com/0ed541b4eb3cf0481e13134dd684e9cc/b446c5c66747859d-9a/s75x75_c1/03130984af65f47abebc9dfdab6b44190a7a42a6.gifv" width="20" height="auto"/>
 </p>
